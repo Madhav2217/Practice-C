@@ -23,6 +23,7 @@ int main(){
     {
         printf("Out of range.");
     }
+    return 0;
     /*
     if 70+,90-     long distance lap
     else if 50+,70-     short
